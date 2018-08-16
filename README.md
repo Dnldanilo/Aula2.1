@@ -3,3 +3,6 @@ Claudio
 Danilo
 Ana
 wesley
+camila
+Rodrigo
+Cllaudia
